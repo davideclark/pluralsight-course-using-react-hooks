@@ -1,0 +1,28 @@
+{
+  "name": "pluralsight-course-using-react-hooks",
+  "version": "1.0.0",
+  "description": "The master branch here is the latest updates to the Pluralsight course published by Peter Kellner in May of 2019 in the master branch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkellner/pluralsight-course-using-react-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkellner/pluralsight-course-using-react-hooks/issues"
+  },
+  "homepage": "https://github.com/pkellner/pluralsight-course-using-react-hooks#readme",
+  "dependencies": {
+    "next": "^9.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
